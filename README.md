@@ -1,3 +1,3 @@
 # mi-primer-repositorio
-proyecto personal
+proyecto personal,
 aprendiendo a añadir un readme
